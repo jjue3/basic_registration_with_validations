@@ -1,0 +1,16 @@
+.wrapper{
+    width: 900px;
+    height: auto;
+}
+.container{
+    width: 400px;
+    height: auto;
+    display: inline-block;
+    vertical-align: top;
+} 
+h1{
+    text-align: center;
+}
+input{
+    display: inline-block;
+}
